@@ -4,7 +4,11 @@
 
 <br>
 
+<div align="center">
+
 ![Image](https://img.moegirl.org.cn/common/7/7c/Sakiko250426.png)
+
+</div>
 
 ## 序言ですわ
 
